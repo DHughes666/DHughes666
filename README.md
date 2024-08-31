@@ -3,7 +3,7 @@
 - Backend: Node.js, Python, Django
 - Frontend: React, React Native, HTML, CSS
 - Database: MongoDB, Firebase
-- Cloud Computing: AWS
+- Cloud Computing: AWS 
 - Learning: Machine Learning
 - 💞️ I’m currently working on automating security features for building phone apps
 - 📫 You can reach me via graziemolto6@gmail.com | www.linkedin.com/in/ezra-lambe 
