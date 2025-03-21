@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Ezra Lambe
 - I'm a full-stack developer with a passion for building scalable and efficient web and mobile applications. My tech stack includes:
 - Backend: Node.js, Python, Django
-- Frontend: React, React Native, HTML, CSS
+- Frontend: Next.js, React Native
 - Database: MongoDB, Firebase
 - Cloud Computing: AWS 
 - Learning: Machine Learning
